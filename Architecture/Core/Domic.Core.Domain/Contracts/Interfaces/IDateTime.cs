@@ -9,4 +9,12 @@ public interface IDateTime
     /// <returns></returns>
     /// <exception cref="NotImplementedException"></exception>
     public string ToPersianShortDate(DateTime dateTime) => throw new NotImplementedException();
+    
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="dateTime"></param>
+    /// <returns></returns>
+    /// <exception cref="NotImplementedException"></exception>
+    public string ToPersianShortDateTime(DateTime dateTime) => throw new NotImplementedException();
 }

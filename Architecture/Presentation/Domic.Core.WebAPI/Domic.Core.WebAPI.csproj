@@ -4,9 +4,9 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
-    <PackageId>Domic.Architecture.Presentation</PackageId>
-    <PackageVersion>9.7.9</PackageVersion>
-    <Authors>Karami.Domic</Authors>
+    <PackageId>Clean.Architecture.Presentation</PackageId>
+    <PackageVersion>0.0.1</PackageVersion>
+    <Authors>Alisalmabadi</Authors>
   </PropertyGroup>
 
   <ItemGroup>
