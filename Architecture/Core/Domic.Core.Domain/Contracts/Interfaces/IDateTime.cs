@@ -17,4 +17,6 @@ public interface IDateTime
     /// <returns></returns>
     /// <exception cref="NotImplementedException"></exception>
     public string ToPersianShortDateTime(DateTime dateTime) => throw new NotImplementedException();
+    public string ToPersianShortDateOnly(DateOnly dateOnly) => throw new NotImplementedException();
+    public DateTime Now() => throw new NotImplementedException();
 }
