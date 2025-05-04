@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <PackageId>Clean.Core.Package</PackageId>
-    <PackageVersion>0.0.1</PackageVersion>
+    <PackageVersion>0.0.2</PackageVersion>
     <Authors>Alisalmabadi</Authors>
   </PropertyGroup>
 
@@ -25,7 +25,6 @@
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.25.1" />
     <PackageReference Include="MongoDB.Entities" Version="22.0.0" />
     <PackageReference Include="Nanoid" Version="3.0.0" />
-    <PackageReference Include="NBomber" Version="5.6.0-beta.2" />
     <PackageReference Include="NEST" Version="7.17.5" />
     <PackageReference Include="Polly" Version="7.2.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
